@@ -53,16 +53,6 @@ Todo-App/
 │
 └── README.md
 
-
----
-
-## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/Yousef5025/Todo-App.git
-cd Todo-App
-
 👨‍💻 Author
 
 Yousef Anwar
