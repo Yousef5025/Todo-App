@@ -39,3 +39,37 @@ The project demonstrates clean architecture, RESTful APIs, authentication-ready 
 
 ## 📂 Project Structure
 
+Todo-App/
+├── backend/ # Laravel API
+│ ├── app/
+│ ├── routes/
+│ ├── controllers/
+│ └── models/
+│
+├── frontend/ # React App
+│ ├── src/
+│ ├── components/
+│ └── services/
+│
+└── README.md
+
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/Yousef5025/Todo-App.git
+cd Todo-App
+
+👨‍💻 Author
+
+Yousef Anwar
+Full Stack Web Developer (Laravel & React)
+
+GitHub: [Yousef5025](https://github.com/Yousef5025)
+
+📄 License
+
+This project is open-source and available under the MIT License.
